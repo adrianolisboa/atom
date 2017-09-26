@@ -1,0 +1,16 @@
+"*":
+  core:
+    closeDeletedFileTabs: true
+    restorePreviousWindowsOnStart: "no"
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "5d930991-a712-4a33-99b4-aed09d877035"
+  welcome:
+    showOnStartup: false
