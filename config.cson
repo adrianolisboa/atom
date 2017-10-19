@@ -5,7 +5,7 @@
     telemetryConsent: "no"
     themes: [
       "one-dark-ui"
-      "solarized-dark-syntax"
+      "solarized-light-syntax"
     ]
   editor:
     showIndentGuide: true
