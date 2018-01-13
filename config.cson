@@ -12,5 +12,9 @@
     showInvisibles: true
   "exception-reporting":
     userId: "5d930991-a712-4a33-99b4-aed09d877035"
+  "relative-numbers":
+    showAbsoluteNumbers: true
+    startAtOne: true
+  "vim-mode-plus": {}
   welcome:
     showOnStartup: false
